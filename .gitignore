@@ -1,0 +1,24 @@
+# Dependency and package caches
+node_modules/
+.pnpm-store/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Temporary working files and previews
+tmp/
+*.tmp
+*.temp
+~$*
+
+# Separate application repositories (published independently)
+compliance-console/
+compliance-demo/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
